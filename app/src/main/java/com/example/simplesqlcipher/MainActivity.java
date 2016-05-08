@@ -1,8 +1,8 @@
 package com.example.simplesqlcipher;
 
 import android.content.ContentValues;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 
