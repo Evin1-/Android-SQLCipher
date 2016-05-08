@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SimpleSQLCipher</string>
+    <string name="add_text">Add</string>
+    <string name="load_text">Load</string>
 </resources>
